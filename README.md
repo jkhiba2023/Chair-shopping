@@ -1,2 +1,3 @@
 # Chair-shopping
+Welcome to Chair Shopping ...
 Author - Jabir Khan
